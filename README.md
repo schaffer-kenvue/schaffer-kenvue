@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Schaffer, a frontend developer with expertise in React. My focus is on developing highly performant and scalable web applications using the latest technologies and best practices.
+
+### Skills and Tools ⚡
+* React
+* Redux
+* JavaScript (ES6+)
+* HTML/CSS/Sass
+* Git
+* Webpack
+* Jest/Enzyme
+* Node.js
+
+Get in Touch
+[LinkedIn](https://www.linkedin.com/in/schafferjr/)
+
+Feel free to reach out to me if you want to discuss React, frontend development, or any potential collaboration. Thanks for visiting my GitHub profile!
